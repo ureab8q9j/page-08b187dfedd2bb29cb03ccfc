@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "07d2bb519e75c25d1a0e7ff4",
+  "owner": "ureab8q9j",
+  "repo": "page-08b187dfedd2bb29cb03ccfc",
+  "title": "维多云",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "08b187dfedd2bb29cb03ccfc",
+      "a": "维多云",
+      "b": "2027最新官网",
+      "entity": "维多云",
+      "brand": "维多云",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "47697f11c1abd7b5b582888398a9b41233d34c93e90b088a5962f4ab93f4f442",
+      "content": {
+        "primary_entity": "维多云",
+        "keyword1": "维多云",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_DESCRIPTION": "，主打海外加速与流媒体访问，按月付费起价 ¥15，三档套餐覆盖不同设备规模。基础版提供 100GB 流量并支持 3 台设备，旗舰版提升至 300GB 与 5 台设备，团队版可达 1000GB 与 20 台设备。按年付更划算，可根据日常用量和联网设备数直接选择。",
+          "AI_HERO_SUBTITLE": "按设备规模选维多云套餐",
+          "AI_HERO_INTRO": "维多云面向需要稳定海外连接的场景，提供基础版、旗舰版与团队版三档订阅。不同套餐在月度流量、同时在线设备数和节点类型上有差异，适合个人、家庭或小团队按实际需求选择。",
+          "AI_VISUAL_TITLE": "维多云套餐导航",
+          "AI_HIGHLIGHT_1": "月付低至 ¥15 起，三档灵活切换",
+          "AI_HIGHLIGHT_2": "最多 20 台设备同时在线",
+          "AI_HIGHLIGHT_3": "旗舰版含 IPLC 游戏加速优化",
+          "AI_FEATURES_TITLE": "维多云套餐特点",
+          "AI_FEATURES_INTRO": "从流量、设备数和节点类型三个角度对比，快速找到合适的订阅档位。",
+          "AI_FEATURE_TITLE_1": "按设备数量选档",
+          "AI_FEATURE_TEXT_1": "基础版支持 3 台设备，旗舰版 5 台，团队版可覆盖 20 台，按同时在线数量挑选。",
+          "AI_FEATURE_TITLE_2": "按流量用量选档",
+          "AI_FEATURE_TEXT_2": "基础版每月 100GB，旗舰版 300GB，团队版 1000GB，重度使用可选高流量档。",
+          "AI_FEATURE_TITLE_3": "按节点需求选档",
+          "AI_FEATURE_TEXT_3": "旗舰版提供 IPLC 专线与原生流媒体解锁，团队版含 VIP 高带宽节点与定制路由。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLIENTS_INTRO": "维多云订阅可在常见客户端中导入，按你的设备类型选择对应软件并参考配置说明。",
+          "AI_PLANS_TITLE": "维多云套餐对比",
+          "AI_PLANS_INTRO": "三档套餐在流量、设备数和节点能力上依次提升，可按使用强度直接对照价格选择。",
+          "AI_GUIDE_TITLE": "订阅配置步骤",
+          "AI_GUIDE_INTRO": "在维多云选好套餐后，依次确认设备适配、导入订阅并保存节点。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TEXT_1": "根据设备同时在线数量和每月流量需求，在基础版、旗舰版或团队版中选择。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认操作系统与客户端版本满足使用条件，再准备订阅导入所需信息。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "按照对应客户端的文档导入订阅链接，保存后即可选择节点开始使用。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_CLOSING_TITLE": "选对套餐，连接更稳",
+          "AI_CLOSING_TEXT": "根据设备数量与流量需求选定维多云档位，按客户端文档完成订阅配置。",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB 流量，支持 3 台设备；旗舰版每月 300GB，支持 5 台；团队版每月 1000GB，支持 20 台。按年付价格分别为 ¥150、¥350 和 ¥850，可根据实际用量选择。",
+          "AI_FAQ_ANSWER_2": "旗舰版和团队版支持全节点原生流媒体解锁，基础版解锁基础流媒体。具体平台以实际测试为准。",
+          "AI_FAQ_ANSWER_3": "在订阅管理页复制订阅链接，导入对应客户端后更新节点即可。具体操作可参考各客户端的配置文档。",
+          "AI_FAQ_ANSWER_4": "套餐按自然月计算，年付相当于一次性支付 12 个月费用，均价更低，适合长期稳定使用。",
+          "AI_FAQ_ANSWER_5": "旗舰版提供 7x24 优先工单，团队版配备专属客户经理，可按需获得技术支持。",
+          "AI_FAQ_QUESTION_1": "维多云各套餐的流量和设备数有什么区别？",
+          "AI_FAQ_QUESTION_2": "流媒体解锁支持哪些平台？",
+          "AI_FAQ_QUESTION_3": "订阅如何导入到客户端？",
+          "AI_FAQ_QUESTION_4": "按年付和按月付有什么区别？",
+          "AI_FAQ_QUESTION_5": "遇到问题怎样获得技术支持？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "arisakajc.com",
+    "host": "arisakajc.com"
+  },
+  "file_hashes": {
+    "index.html": "f24b68f5499f669d454a9e6b2b80d4bab46e094ebc9c3d8f07e25a497b1f30b4",
+    "sitemap.xml": "7aee45351185cc5745f256d8f43ddb92c7afc7986bdcad48075b826330ce28f2",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "d09d758debed8b847b72ff2d69d933f99843cd71d3eed48afca801a3efcec57f",
+    "robots.txt": "d10e00fb569776ca63240df017f4e3d23a163110d9fb8c9a0018712bf5472854",
+    "132ce8f4286b94447a6739b6f763d85d.txt": "67543707c70185897b92d94ce157094d4908dd5a8069847c09265bdaf0c70f7c"
+  },
+  "revision": "08990a70a28671cf41879d3a3d8b722dd724e7551472be575bb95819361017f2"
+}
